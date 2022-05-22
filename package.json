@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "git": "^0.1.5"
+  },
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Callback de ligacoes ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "rest",
+    "issabel"
+  ],
+  "author": "Bruno Rufino",
+  "license": "ISC"
+}
