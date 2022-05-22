@@ -61,6 +61,7 @@ router.post('/agentes', (req, res, next) => {
                                       codigo_ligacao: lig.clid,
                                       data: lig.calldate ,
                                       origem: lig.src,
+                                      tempo: lig.duration,
                                       destino: lig.dst,
                                       request: {
                                           code: '200',
